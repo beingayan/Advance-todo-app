@@ -1,7 +1,7 @@
 {
   "name": "vite-project",
   "private": true,
-  "homepage": "https://beingayan.github.io",
+  "homepage": "https://beingayan.github.io/Advance-todo-app",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
